@@ -20,7 +20,7 @@ $ digitalocean_to_sshconfig
 $ digitalocean_to_sshconfig --force-update=1
 ```
 
-**set username for config entries -- default:root**
+**set username for config entries (default:root) **
 ```bash
 $ digitalocean_to_sshconfig --user=emre
 ```
