@@ -3,6 +3,7 @@ digitalocean_to_sshconfig
 
 adds your droplets into your ssh config.
 
+<img src="http://i.imgur.com/UB9qWU7.gif">
 
 ### installation
 
