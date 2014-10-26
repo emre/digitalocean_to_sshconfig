@@ -3,8 +3,6 @@ digitalocean_to_sshconfig
 
 adds your droplets into your ssh config.
 
-<img src="http://i.imgur.com/UB9qWU7.gif">
-
 ### installation
 
 ```bash
@@ -26,4 +24,7 @@ $ digitalocean_to_sshconfig --force-update=1
 ```bash
 $ digitalocean_to_sshconfig --user=emre
 ```
+
+<img src="http://i.imgur.com/UB9qWU7.gif">
+
 
